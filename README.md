@@ -15,7 +15,10 @@
 ## Description
 
 <a name="Description"></a>
-> Re-visit of old repository attempting to recreate the enigma machine. This project aims to produce a react page for the front end and a C language encryption. (W.I.P)
+> Revisit of old enigma machine repo. W.I.P. I aim to:
+- Create a backend enigma encryption written in C
+- Create a middleware compiler to translate the i/o from TS to C and back
+- Create a Front End TS / React.TS display for users to interact with the machine.
 
 ## Tech Stack
 
